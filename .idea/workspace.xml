@@ -9,6 +9,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FlutterView" splitter-proportion="0.43307087" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -67,10 +68,10 @@
       <screen x="2560" y="162" width="2560" height="1050" />
     </state>
     <state width="1229" height="150" key="GridCell.Tab.0.right/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597933253136" />
-    <state x="2784" y="430" key="IDE.errors.dialog" timestamp="1597930804756">
+    <state x="2784" y="430" key="IDE.errors.dialog" timestamp="1597940759133">
       <screen x="2560" y="162" width="2560" height="1050" />
     </state>
-    <state x="2784" y="430" key="IDE.errors.dialog/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597930804756" />
+    <state x="2784" y="430" key="IDE.errors.dialog/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597940759133" />
     <state x="2705" y="329" key="SettingsEditor" timestamp="1597934020044">
       <screen x="2560" y="162" width="2560" height="1050" />
     </state>
@@ -79,5 +80,13 @@
       <screen x="2560" y="162" width="2560" height="1050" />
     </state>
     <state x="2660" y="262" width="1089" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597930846055" />
+    <state x="2594" y="268" width="1166" height="843" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597938889340">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state x="2594" y="268" width="1166" height="843" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597938889340" />
+    <state x="2846" y="429" width="672" height="678" key="search.everywhere.popup" timestamp="1597942688584">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state x="2846" y="429" width="672" height="678" key="search.everywhere.popup/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597942688584" />
   </component>
 </project>
