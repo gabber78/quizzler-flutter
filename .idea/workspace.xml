@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8404f304-2841-4e18-b066-42d5363497f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gMhDmwcUihdk1Eq4JkjO2NjGWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8404f304-2841-4e18-b066-42d5363497f1" name="Default Changelist" comment="" />
+      <created>1597930251813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597930251813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2796" y="345" key="#Dart" timestamp="1597933273382">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state x="2796" y="345" key="#Dart/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597933273382" />
+    <state width="1229" height="150" key="GridCell.Tab.0.bottom" timestamp="1597933253137">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state width="1229" height="150" key="GridCell.Tab.0.bottom/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597933253137" />
+    <state width="1229" height="150" key="GridCell.Tab.0.center" timestamp="1597933253136">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state width="1229" height="150" key="GridCell.Tab.0.center/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597933253136" />
+    <state width="1229" height="150" key="GridCell.Tab.0.left" timestamp="1597933253136">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state width="1229" height="150" key="GridCell.Tab.0.left/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597933253136" />
+    <state width="1229" height="150" key="GridCell.Tab.0.right" timestamp="1597933253136">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state width="1229" height="150" key="GridCell.Tab.0.right/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597933253136" />
+    <state x="2784" y="430" key="IDE.errors.dialog" timestamp="1597930804756">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state x="2784" y="430" key="IDE.errors.dialog/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597930804756" />
+    <state x="2705" y="329" key="SettingsEditor" timestamp="1597934020044">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state x="2705" y="329" key="SettingsEditor/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597934020044" />
+    <state x="2660" y="262" width="1089" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1597930846055">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state x="2660" y="262" width="1089" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1597930846055" />
+  </component>
+</project>
