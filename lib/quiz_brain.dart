@@ -2,7 +2,9 @@ import 'question.dart';
 
 class QuizBrain {
 
-  List<Question> questionBank = [
+  int _questionNumber = 0; // _valtozo means make it private
+
+  List<Question> _questionBank = [
     Question('Some cats are actually allergic to humans', true),
     Question('You can lead a cow down stairs but not up stairs.', false),
     Question('Approximately one quarter of human bones are in the feet.', true),
@@ -21,4 +23,21 @@ class QuizBrain {
         true),
     Question('In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.', true)
   ];
+
+  void nextQuestion() {
+    if(_questionNumber < _questionBank.length - 1) { //sp when we reach the end of the list it wont crush / stops at the last question
+      _questionNumber++;
+    }
+    print(_questionNumber);
+    print(_questionBank.length);
+  }
+
+  String getQuestionText(){
+    return _questionBank[_questionNumber].questionText;
+  }
+
+  bool getCorrectAnswer(){
+    return _questionBank[_questionNumber].questionAnswer;
+  }
+
 }

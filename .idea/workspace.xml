@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8404f304-2841-4e18-b066-42d5363497f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/quiz_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/quiz_brain.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,10 @@
       <screen x="2560" y="162" width="2560" height="1050" />
     </state>
     <state x="2803" y="356" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1598865461165" />
+    <state x="2778" y="195" key="CommitChangelistDialog2" timestamp="1598884275963">
+      <screen x="2560" y="162" width="2560" height="1050" />
+    </state>
+    <state x="2778" y="195" key="CommitChangelistDialog2/0.0.1707.929/2560.162.2560.1050@2560.162.2560.1050" timestamp="1598884275963" />
     <state width="1127" height="212" key="GridCell.Tab.0.bottom" timestamp="1598867574832">
       <screen x="2560" y="162" width="2560" height="1050" />
     </state>
